@@ -50,6 +50,8 @@ export default {}
 }
 .email:focus {
   border: none;
+  outline: none;
+  box-shadow: 30px 30px 80px rgba(0, 0, 0, 0.2);
 }
 .submit {
   background: rgba(52, 171, 235, 1);

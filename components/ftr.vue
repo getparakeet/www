@@ -45,7 +45,7 @@
           </li>
           <li>
             <a
-              href="/why-us"
+              href="https://getparakeet.dev/why-us"
               class="
                 inline-block
                 py-2
@@ -73,7 +73,7 @@
           </li>
           <li>
             <a
-              href="/pricing"
+              href="https://getparakeet.dev/products"
               class="
                 inline-block
                 py-2

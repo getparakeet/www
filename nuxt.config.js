@@ -16,6 +16,7 @@ export default {
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
     ],
     script: [
+      { src: "/dnt.js" },
       { src: 'https://getinsights.io/js/insights.js' },
       { innerHTML: `
       insights.init("P5Cil83jxWAp8S9v");
