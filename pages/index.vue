@@ -139,6 +139,9 @@ body {
   scroll-snap-align: center;
   height: 100vh;
 }
+.section-footer {
+  scroll-snap-align: center;
+}
 .wbd {
   color: var(--purple);
 }

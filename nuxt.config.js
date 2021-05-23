@@ -7,14 +7,19 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'parakeet',
+    title: 'Parakeet Cloud',
     meta: [
       { charset: 'utf-8' },
-      { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: '' }
+      { name: 'viewport', content: 'width=device-width, initial-scale=1' }
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
+    ],
+    script: [
+      { src: 'https://getinsights.io/js/insights.js' },
+      { innerHTML: `
+      insights.init("P5Cil83jxWAp8S9v");
+      insights.trackPages();` }
     ]
   },
 

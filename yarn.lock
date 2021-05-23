@@ -915,6 +915,11 @@
   dependencies:
     purgecss "^3.1.3"
 
+"@hcaptcha/vue-hcaptcha@^0.3.0":
+  version "0.3.0"
+  resolved "https://registry.yarnpkg.com/@hcaptcha/vue-hcaptcha/-/vue-hcaptcha-0.3.0.tgz#faa400d3072e2d87638a88d39ff6341c22e08904"
+  integrity sha512-V9SY1uxOJgpaM3UY/O/8lhv/uVKNasF8ZXfaELnv3U2MY5WlWO6YBl/bdGxgxQnCESmW5r5znLvYF7ZJAwI/xw==
+
 "@koa/router@^9.0.1":
   version "9.4.0"
   resolved "https://registry.yarnpkg.com/@koa/router/-/router-9.4.0.tgz#734b64c0ae566eb5af752df71e4143edc4748e48"
