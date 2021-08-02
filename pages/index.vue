@@ -91,7 +91,6 @@
     <ftr />
   </div>
 </template>
-
 <script lang="ts">
 import Vue from 'vue'
 import Betaaccess from '~/components/betaaccess.vue'
@@ -168,5 +167,11 @@ body {
   grid-template-columns: repeat(2, 1fr);
   gap: 10px;
   grid-auto-rows: minmax(100px, auto);
+}
+/* Media queries */
+@media screen and (max-width: 1180px) {
+  .chaos {
+    display: none;
+  }
 }
 </style>

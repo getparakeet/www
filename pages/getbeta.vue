@@ -1,7 +1,7 @@
 <template>
   <div class="get-beta">
     <navbar />
-    <betaaccess />
+      <betaaccess />
   </div>
 </template>
 
@@ -16,6 +16,9 @@ export default {
 
 <style>
 .get-beta {
-  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 50vh;
 }
 </style>
