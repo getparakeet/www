@@ -18,7 +18,7 @@
           <li><span class="dash">-</span> 24-hour e-mail Support</li>
           <li>✔️ HTTPS</li>
         </ul>
-        <div class="pricing price1">$0.00</div>
+        <div class="pricing price1">Free forever</div>
       </div>
       <hr />
       <div class="opt option-2">
@@ -53,10 +53,10 @@
       <div class="modal-text">
         <h2 class="text-4xl">Rate Limiting for free tier</h2>
         <p>
-          If your website/storage gets over 10,000 (ten thousand) views for 2
+          If your website and/or storage gets over 10,000 (ten thousand) views for 2
           months consecutive, we will pause any views that surpass 10,000 until
           (a): the next month, or (b): you upgrade to Premium, Pro, or
-          Enterprise.
+          Enterprise. We will not pause any views for 1 month.
         </p>
         <a href="#">
           <div class="close-btn">Ok</div>
@@ -154,15 +154,15 @@ hr {
   padding: 15px;
 }
 .price1 {
-  bottom: 73%;
+  bottom: 72%;
   right: 7%;
 }
 .price2 {
-  bottom: 53%;
+  bottom: 45%;
   right: 7%;
 }
 .price3 {
-  bottom: 31%;
+  bottom: 19%;
   right: 7%;
 }
 .modal-opener {

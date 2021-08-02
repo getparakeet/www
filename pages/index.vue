@@ -1,6 +1,7 @@
 <template>
   <div class="h-full">
     <navbar />
+    <div class="h-main">
     <div class="hero section p-40 m-8" id="main1a">
       <div class="hero-text">
         <h2 class="font-sans md:font-sans text-5xl font-extrabold">
@@ -89,6 +90,7 @@
       </div>
     </div>
     <ftr />
+    </div>
   </div>
 </template>
 <script lang="ts">
@@ -118,7 +120,6 @@ a {
 }
 html,
 body {
-  scroll-behavior: smooth;
   margin: 0;
   padding: 0;
 }
@@ -129,6 +130,9 @@ body {
   flex-direction: row;
 }
 .h-full {
+  scroll-behavior: smooth;
+}
+.h-main {
   scroll-snap-type: y mandatory;
   height: 100vh;
   overflow: auto;
