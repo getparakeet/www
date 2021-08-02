@@ -166,6 +166,20 @@
               >Our commitment</a
             >
           </li>
+          <li>
+            <a
+              href="https://getparakeet.dev/abuse"
+              class="
+                inline-block
+                py-2
+                px-3
+                text-gray-500
+                hover:text-white
+                no-underline
+              "
+              >Report Abuse</a
+            >
+          </li>
         </ul>
         <ul
           class="
