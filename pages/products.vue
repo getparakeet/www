@@ -16,6 +16,7 @@
           </li>
           <li>❌ Low Priority</li>
           <li><span class="dash">-</span> 24-hour e-mail Support</li>
+          <li><span class="dash">-</span> 800 MB file limit</li>
           <li>✔️ HTTPS</li>
         </ul>
         <div class="pricing price1">Free forever</div>
@@ -27,6 +28,7 @@
           <li><span class="dash">-</span> Custom Subdomain for CDN</li>
           <li><span class="dash">-</span> Medium Priority</li>
           <li><span class="dash">-</span> 12-hour e-mail Support</li>
+          <li><span class="dash">-</span> 2 GB file limit</li>
           <li>✔️ No rate limiting</li>
           <li>✔️ HTTPS</li>
         </ul>
@@ -42,6 +44,7 @@
           </li>
           <li>✔️ Max Priority</li>
           <li>✔️ 15-minute chat support</li>
+          <li>✔️ 10 GB file limit</li>
           <li>✔️ No rate limiting</li>
           <li>✔️ HTTPS</li>
         </ul>
