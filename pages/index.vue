@@ -18,7 +18,6 @@
         </div>
       </div>
       <div class="hero-img">
-        <!-- Lord have mercy on my soul -->
         <chaos />
       </div>
     </div>
@@ -68,7 +67,7 @@
             <div v-html="$feathericons['moon'].toSvg()"></div>
             <h2 class="font-sans md:font-sans text-3xl">Private and Secure</h2>
             <p>
-              We burn all of our logs every 30 days, and we
+              We do not store logs and we
               <strong>never</strong> transfer, trade, or sell data to anyone. We
               are not in the business of data. Our logs are protected by the top
               level of SSL encryption. We believe that Privacy is a fundamental

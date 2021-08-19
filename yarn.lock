@@ -3065,6 +3065,11 @@ core-js@^3.1.3, core-js@^3.9.1:
   resolved "https://registry.yarnpkg.com/core-js/-/core-js-3.12.1.tgz#6b5af4ff55616c08a44d386f1f510917ff204112"
   integrity sha512-Ne9DKPHTObRuB09Dru5AjwKjY4cJHVGu+y5f7coGn1E9Grkc3p2iBwE9AI/nJzsE29mQF7oq+mhYYRqOMFN1Bw==
 
+core-js@^3.6.5:
+  version "3.16.2"
+  resolved "https://registry.yarnpkg.com/core-js/-/core-js-3.16.2.tgz#3f485822889c7fc48ef463e35be5cc2a4a01a1f4"
+  integrity sha512-P0KPukO6OjMpjBtHSceAZEWlDD1M2Cpzpg6dBbrjFqFhBHe/BwhxaP820xKOjRn/lZRQirrCusIpLS/n2sgXLQ==
+
 core-util-is@~1.0.0:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/core-util-is/-/core-util-is-1.0.2.tgz#b5fd54220aa2bc5ab57aab7140c940754503c1a7"
@@ -8881,6 +8886,15 @@ vm-browserify@^1.0.1:
   resolved "https://registry.yarnpkg.com/vm-browserify/-/vm-browserify-1.1.2.tgz#78641c488b8e6ca91a75f511e7a3b32a86e5dda0"
   integrity sha512-2ham8XPWTONajOR0ohOKOHXkm3+gaBmGut3SRuu75xLd/RRaY6vqgh8NBYYk7+RW3u5AtzPQZG8F10LHkl0lAQ==
 
+vue-carbonbadge@^1.1.1:
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/vue-carbonbadge/-/vue-carbonbadge-1.1.1.tgz#199818f4d7098ab1fe565fa9af0f140b162452f7"
+  integrity sha512-QAvLPg9Qc6lrcdYVqedfqYceMO3cSfVz7/vKT33thyUwGJu8Prc6wwYgcAfWLJGWz5mHPo5q73LjlHnwkIkJ7w==
+  dependencies:
+    core-js "^3.6.5"
+    vue "^2.6.12"
+    website-carbon-badges "^1.1.3"
+
 vue-client-only@^2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/vue-client-only/-/vue-client-only-2.0.0.tgz#ddad8d675ee02c761a14229f0e440e219de1da1c"
@@ -9074,6 +9088,11 @@ webpackbar@^4.0.0:
     std-env "^2.2.1"
     text-table "^0.2.0"
     wrap-ansi "^6.0.0"
+
+website-carbon-badges@^1.1.3:
+  version "1.1.3"
+  resolved "https://registry.yarnpkg.com/website-carbon-badges/-/website-carbon-badges-1.1.3.tgz#2c05e8a953f15454c01789cbe4b9d8dfe5e13a15"
+  integrity sha512-3qZm1rGWe0PSuKqlYIYDbxBLfbNK8ko0MiHtlq1GFUOGoThshjem9SWRQ+IXp4KAhcwPp5qRkgQP6hGZioZJjw==
 
 which-boxed-primitive@^1.0.2:
   version "1.0.2"

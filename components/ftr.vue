@@ -18,6 +18,7 @@
           alt="logo"
         />
       </a>
+    <CarbonBadge></CarbonBadge>
       <div class="w-2/3 block sm:flex text-sm mt-6 lg:mt-0">
         <ul
           class="

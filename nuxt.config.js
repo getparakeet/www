@@ -16,11 +16,7 @@ export default {
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
     ],
     script: [
-      { src: "/dnt.js" },
-      { src: 'https://getinsights.io/js/insights.js' },
-      { innerHTML: `
-      insights.init("P5Cil83jxWAp8S9v");
-      insights.trackPages();` }
+      { src: "/dnt.js" }
     ]
   },
 
@@ -30,6 +26,7 @@ export default {
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
   plugins: [
+    '~/plugins/vue-carbonbadge.client.js',
   ],
 
   // Auto import components: https://go.nuxtjs.dev/config-components
@@ -48,7 +45,7 @@ export default {
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [
     // https://go.nuxtjs.dev/pwa
-    '@nuxtjs/pwa',
+    '@nuxtjs/pwa'
   ],
 
   // PWA module configuration: https://go.nuxtjs.dev/pwa
