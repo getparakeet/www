@@ -11,7 +11,7 @@
   "dependencies": {
     "@hcaptcha/vue-hcaptcha": "^0.3.0",
     "@nuxtclub/feathericons": "^1.0.0",
-    "@nuxtjs/axios": "^5.13.4",
+    "@nuxtjs/axios": "^5.13.6",
     "@nuxtjs/pwa": "^3.3.5",
     "@nuxtjs/tailwindcss": "^4.1.2",
     "autoprefixer": "^9",
