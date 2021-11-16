@@ -915,10 +915,10 @@
   dependencies:
     purgecss "^3.1.3"
 
-"@hcaptcha/vue-hcaptcha@^0.3.0":
-  version "0.3.0"
-  resolved "https://registry.yarnpkg.com/@hcaptcha/vue-hcaptcha/-/vue-hcaptcha-0.3.0.tgz#faa400d3072e2d87638a88d39ff6341c22e08904"
-  integrity sha512-V9SY1uxOJgpaM3UY/O/8lhv/uVKNasF8ZXfaELnv3U2MY5WlWO6YBl/bdGxgxQnCESmW5r5znLvYF7ZJAwI/xw==
+"@hcaptcha/vue-hcaptcha@^0.3.2":
+  version "0.3.2"
+  resolved "https://registry.yarnpkg.com/@hcaptcha/vue-hcaptcha/-/vue-hcaptcha-0.3.2.tgz#0f77d6fc19bc47eadb6b2181eee5fc132441a942"
+  integrity sha512-JiJsAJh+fSe+uf9N3ek7CKzX/r79+hx+rMPch+e2/h9+Ei3VyJtb2Dgk1DhG/dyUdrooPIzkNMr6gfo75Cn22g==
 
 "@koa/router@^9.0.1":
   version "9.4.0"
