@@ -9,7 +9,7 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
-    "@hcaptcha/vue-hcaptcha": "^0.3.0",
+    "@hcaptcha/vue-hcaptcha": "^0.3.2",
     "@nuxtclub/feathericons": "^1.0.0",
     "@nuxtjs/axios": "^5.13.6",
     "@nuxtjs/pwa": "^3.3.5",
