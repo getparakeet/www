@@ -13,7 +13,7 @@
     "@nuxtclub/feathericons": "^1.0.0",
     "@nuxtjs/axios": "^5.13.6",
     "@nuxtjs/pwa": "^3.3.5",
-    "@nuxtjs/tailwindcss": "^4.1.2",
+    "@nuxtjs/tailwindcss": "^5.0.3",
     "autoprefixer": "^9",
     "axios": "^0.21.1",
     "core-js": "^3.19.1",
